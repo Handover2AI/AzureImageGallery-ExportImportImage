@@ -16,8 +16,8 @@
     AzCopy must be installed and available in PATH.
 
 .NOTES
-    Author:        <Your Name>
-    Created:       <Date>
+    Author:        Handover2AI-byExistence
+    Created:       24-Feb-26
     Requirements:  Az PowerShell modules, AzCopy, appropriate RBAC permissions in both tenants.
 
 #>
